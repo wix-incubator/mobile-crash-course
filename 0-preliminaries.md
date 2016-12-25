@@ -18,6 +18,7 @@ Our stack is based on React Native, you should play with it a little before the 
 
 * Install [all required software](https://facebook.github.io/react-native/docs/getting-started.html) on your Mac in advance! Both **iOS** (Xcode) and **Android** (Android Studio)
 * Complete this basic [tutorial](https://facebook.github.io/react-native/docs/tutorial.html) for React Native (even if you don't know React)
+* Make sure you are able to [create a new RN app](https://facebook.github.io/react-native/docs/getting-started.html#testing-your-react-native-installation) and run it on a simulator
 
 ## 3. Flux dataflow with redux
 
