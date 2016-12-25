@@ -27,3 +27,7 @@ The MVC pattern is iffy with React (and declarative programming in general), we 
 * One of the most popular Flux implementations is a library named [redux](https://github.com/reactjs/redux), skim through its insanly long [docs](http://redux.js.org)
 * It's actually much easier and faster to learn redux by example from Tal's [detailed blog post](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.qrxxpd867)
 * It's important to understand how to model your app's state, this [blog post](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.gchj7syn3) will help you
+
+## Last but not least
+
+Why does the Wix mobile stack incorporate these things?! See this [ReactNext video](http://youtube.com/watch?v=abSNo2P9mMM) by Tal
