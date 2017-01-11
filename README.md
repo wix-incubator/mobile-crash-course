@@ -9,3 +9,6 @@ This is the first official day of the crash course. In order to get the juices r
 
 ### [2. The Basics](2-the-basics.md)
 After a few talks about the basics (native vs JS, CI and navigation), we'll have a show & tell where we'll each go over a single scenario in yersterday's code from start to finish and get some group feedback.
+
+### [3. E2E](3-e2e.md)
+After some more general talks (open source, code sharing and UI lib), we'll experiment with UI automation testing (E2E) and try to test our apps from first day with detox.
