@@ -12,3 +12,6 @@ After a few talks about the basics (native vs JS, CI and navigation), we'll have
 
 ### [3. E2E](3-e2e.md)
 After some more general talks (open source, code sharing and UI lib), we'll experiment with UI automation testing (E2E) and try to test our apps from first day with detox.
+
+### [4. The Gory Details](4-the-gory-details.md)
+We'll spend the first half of the day learning about modules in One App, hearing some performance horror stories and seeing experiments, BI and monitoring. The second half is dedicated for unit tests in Redux.
