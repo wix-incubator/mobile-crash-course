@@ -7,3 +7,5 @@ Before starting the crash course, you should familiarize yourself with some basi
 ### [1. Hands-on Dive](1-hands-on-dive.md)
 This is the first official day of the crash course. In order to get the juices running, we'll spend most of the day working on a hands-on project. We'll use this project as a baseline for the other workshops in the next few days.
 
+### [2. The Basics](2-the-basics.md)
+After a few talks about the basics (native vs JS, CI and navigation), we'll have a show & tell where we'll each go over a single scenario in yersterday's code from start to finish and get some group feedback.
