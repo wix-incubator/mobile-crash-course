@@ -3,8 +3,8 @@
 ## `10:00 - 10:15` - Coffee and Mingling
 Who are you and where are you from?! We're spending the entire week together, so some customary meet and greet.
 
-## `10:15 - 10:55` - Talk: Intro (with [Tal Kol](mailto:talkol@wix.com))
-A short intro. We'll talk about mobile engineering @ Wix and our mobile stack in general. We'll also talk about the main mobile products being developed and who's making them.
+## `10:15 - 10:55` - Talk: Introduction (with [Tal Kol](mailto:talkol@wix.com))
+A short introduction. We'll talk about mobile engineering @ Wix and our mobile stack in general. We'll also talk about the main mobile products being developed and who's making them.
 
 ## `11:00 - 11:15` - Talk: Schedule Overview (with [Tal Kol](mailto:talkol@wix.com))
 We'll go over the game plan for the entire week.
