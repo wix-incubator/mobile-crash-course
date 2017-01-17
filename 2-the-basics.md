@@ -22,7 +22,8 @@ In addition, did you face any dilemmas you want to share? Did you struggle with 
 
 ####The purpose is group feedback:
 * Is the code well organized?
-* Does the scenario flow well between different parts of the codebase?
+* Is there clear separation between views and logic?
+* Does the scenario flow well between different parts of the codebase? (according to our Flux conventions)
 * How is the state modeled? Any accidental complexity?
 * What would you design differently?
 * Any feedback on code style? React tips or gotchas?
