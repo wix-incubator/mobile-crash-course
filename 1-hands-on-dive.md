@@ -16,7 +16,7 @@ There are 4 project ideas to choose from, ordered by difficulty. Choose **one** 
 
 ####Some pointers:
 * Use React Native version 0.38 ([how?](https://gist.github.com/talkol/b6cb414a2435062d310b2d8dfcd8b97c))
-* Use this [template](https://github.com/DanielZlotin/react-native-38-template.git)
+* Clone this [template](https://github.com/DanielZlotin/react-native-38-template.git) to use react-native 38 with navigation.
 * Use [Redux](https://github.com/reactjs/redux) and **invest time** on well-organized [dataflow](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.bubcmvc8j) and correct state [modeling](https://medium.com/@talkol/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a)
 * If you need a navigation solution, rely on [react-native-navigation](https://github.com/wix/react-native-navigation)
 * Use modern JavaScript syntax (ES6+), async-await, classes. Avoid Typescript please
