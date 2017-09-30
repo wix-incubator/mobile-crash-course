@@ -1,6 +1,6 @@
 # Day 2: TDD 
 
-## `10:00 - 10:40` - Talk: Navigation - Idea, Pains & Roadmap (with [Ran Grrenberg](mailto:rang@wix.com) & [Guy Carmeli](mailto:guyc@wix.com ))
+## `10:00 - 10:40` - Talk: Navigation - Idea, Pains & Roadmap (with [Ran Greenberg](mailto:rang@wix.com) & [Guy Carmeli](mailto:guyc@wix.com ))
 Navigation includes the entire skeleton of the app - core UI components like the navigation bar, tab bar and side menu; and how we move between screens. How is mobile navigation different from web? How's our [native library](https://github.com/wix/react-native-navigation) different from the stock one?
 
 
@@ -14,7 +14,7 @@ FOOD
 
 
 ## `13:00 - 13:55` - Talk: TDD with RemX (with [Daniel Zlotin](mailto:danielzl@wix.com))
-We believe that TDD is required for scaling our engineering and moving towards continuous delivery. We will show how it is done more easely with Remx.
+We believe that TDD is required for scaling our engineering and moving towards continuous delivery. We will show how it is done more easily with Remx.
 
 
 ## `14:00 - 18:00` - Workshop: TDD Rewrite your project (with [Daniel Zlotin](mailto:danielzl@wix.com))

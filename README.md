@@ -9,9 +9,9 @@ Before starting the crash course, you should familiarize yourself with some basi
 
 Ensure that you fulfill all required environment setup and software prerequisites before starting the training.
 
-> * Xcode 9.0 (or larer)
+> * Xcode 9.0 (or later)
 > * Android Studio latest version
-> * Andriud SDK
+> * Android SDK
 > * JS IDE - WebStorm/VSCode..
 > * [Detox](https://github.com/wix/detox)
 > * [AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) 
@@ -20,7 +20,7 @@ Ensure that you fulfill all required environment setup and software prerequisite
 
 
 ### [`Day 1:`Introduction to React Native](1-introduction-to-react-native.md)
-This is the first official day of the crash course. We will start with intresduction of the React Native framework and it's internals and later dive into differnt derivations of Flux design pattern. 
+This is the first official day of the crash course. We will start with introduction of the React Native framework and it's internals and later dive into different derivations of Flux design pattern. 
 
 
 
@@ -29,18 +29,24 @@ We will start from a talk about navigation solutions in React Native and continu
 
 
 
-### [`Day 3:` Scaling & Deployment](3-day3.md)
-After understanding Wix OneApp's multi-module architecture and understand our the delivery proccess, we'll experiment with UI automation testing (E2E) and try to test our demo application with detox.
+### [`Day 3:` Scaling & Deployment](3-scaling-and-deployment.md)
+After understanding Wix OneApp's multi-module architecture and understand our the delivery process, we'll experiment with UI automation testing (E2E) and try to test our demo application with detox.
 
 
 
 ### [`Day 4:` Performance & Monitoring](4-performance-and-monitoring.md)
-After understanding Wix OneApp's multi-module architecture and exploring our delivery proccess, we'll experiment with UI automation testing (E2E) and try to test our demo application with detox.
+After understanding Wix OneApp's multi-module architecture and exploring our delivery process, we'll experiment with UI automation testing (E2E) and try to test our demo application with detox.
 
 
 ### [`Day 5:` More fun](5-more-fun.md)
-On the last day we will take a look on the furure of our mobile products in Wix and later we will try to improve our TDD skills by perfoming a TDD Kata.
+On the last day we will take a look on the future of our mobile products in Wix and later we will try to improve our TDD skills by performing a TDD Kata.
 
+
+### [`After:` Further Reading](https://github.com/wix/mobile-engineering-library)
+We've just covered the tip of the iceberg. You probably have many open questions and things you'd like to understand in more depth. You can continue reading about what we think is important in our [mobile engineering library](https://github.com/wix/mobile-engineering-library).
+
+
+## Full schedule
 
 <p>&nbsp;</p>
 <table style="width: 819px;">
@@ -377,5 +383,4 @@ On the last day we will take a look on the furure of our mobile products in Wix 
 
 
 
-### [`After:` Further Reading](https://github.com/wix/mobile-engineering-library)
-We've just covered the tip of the iceberg. You probably have many open questions and things you'd like to understand in more depth. You can continue reading about what we think is important in our [mobile engineering library](https://github.com/wix/mobile-engineering-library).
+

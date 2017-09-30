@@ -8,7 +8,7 @@ Who are you and where are you from?! We're spending the entire week together, so
 
 ## `10:40 - 12:00` - Talk: ReactNative architecture - part 1 (with [Daniel Zlotin](mailto:danielz@wix.com))
 
-Intresuce the main aspects of React Native, why we are working in RN frame work in Wix, differences between native and RN that you should remember.
+Introduce the main aspects of React Native, why we are working in RN frame work in Wix, differences between native and RN that you should remember.
 
 ## `12:00 - 13:00` - Lunch Break
 FOOD 
@@ -21,7 +21,7 @@ TBD
 
 ## `13:50-15:30` - Talk: ReactNative architecture - part 2 (with [Daniel Zlotin](mailto:danielz@wix.com))
 
-We will dive into React Native internals to explore the main components of the RN framwork,
+We will dive into React Native internals to explore the main components of the RN framework,
 following that we will see how do we split projects between Native and JavaScript and what are the pros and cons of each side.
 
 
@@ -30,11 +30,11 @@ Go over Redux's key ideas, a design pattern that was inspired by Flux.
 
 
 
-## `16:20-17:00` - Talk: Intreduction to RemX (with [Nir Yosef](mailto:niryo@wix.com ))
-Can we offer you an alternative dataflow to Redux, with less boilerplate and simpler tests? We'll intreduce you to RemX, a much more convenient state managment library.
+## `16:20-17:00` - Talk: Introduction to RemX (with [Nir Yosef](mailto:niryo@wix.com ))
+Can we offer you an alternative dataflow to Redux, with less boilerplate and simpler tests? We'll introduce you to RemX, a much more convenient state management library.
 
 
-## `17:00 - 19:00` - Workshop: RemX Dataflow with React Native (TBD)
+## `17:00 - 19:00` - Workshop: RemX Data-flow with React Native (TBD)
 
 
 

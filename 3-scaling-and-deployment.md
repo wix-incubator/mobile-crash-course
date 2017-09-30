@@ -26,6 +26,6 @@ UI automation testing (E2E) is a key requirement for engineering at scale. What 
 
 
 
-## `16:00 - 18:00` - Workshop: Detoxify Your Project (with [Rotem Mizrachi](mailto:rotemm@wix.com) & [Ran Grrenberg](mailto:rang@wix.com))
+## `16:00 - 18:00` - Workshop: Detoxify Your Project (with [Rotem Mizrachi](mailto:rotemm@wix.com) & [Ran Greenberg](mailto:rang@wix.com))
 Learn the testing API by going over detox's own suite of [E2E tests](https://github.com/wix/detox/tree/master/detox/test/e2e). Write a few end to end scenarios, practice the testing API and try to get a feel for its limitations.
 
