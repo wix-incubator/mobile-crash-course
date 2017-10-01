@@ -8,7 +8,7 @@ Who are you and where are you from?! We're spending the entire week together, so
 
 ## `10:40 - 12:00` - Talk: ReactNative architecture - part 1 (with [Daniel Zlotin](mailto:danielz@wix.com))
 
-Introduce the main aspects of React Native, why we are working in RN frame work in Wix, differences between native and RN that you should remember.
+Introduce the main aspects of React Native, why we are working in RN framework in Wix, differences between native and RN development that you should remember.
 
 ## `12:00 - 13:00` - Lunch Break
 FOOD 
