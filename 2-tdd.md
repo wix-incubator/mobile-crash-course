@@ -17,7 +17,7 @@ FOOD
 We believe that TDD is required for scaling our engineering and moving towards continuous delivery. We will show how it is done more easily with Remx.
 
 
-## `14:00 - 18:00` - Workshop: TDD Rewrite your project (with [Daniel Zlotin](mailto:danielzl@wix.com))
+## `14:00 - 18:00` - Workshop: TDD Rewrite your project (with [Daniel Zlotin](mailto:danielzl@wix.com) & [Elad Bogomolny](eladbo@wix.com))
 We will re-write the example project you did yesterday following TDD principles!
 
 

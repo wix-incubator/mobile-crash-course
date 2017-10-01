@@ -47,7 +47,6 @@ We've just covered the tip of the iceberg. You probably have many open questions
 
 
 ## Full schedule
-
 <p>&nbsp;</p>
 <table style="width: 819px;">
 <tbody>
@@ -87,23 +86,19 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p class="p1"><span class="s1">Talk: ReactNative architecture - part 1</span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Daniel.Z/Tal.K</span></em></p>
-</td>
-</tr>
-<tr>
-<td style="width: 733px;" colspan="3">
-<p><span style="font-weight: 400;">&nbsp;Lunch Break&nbsp;</span></p>
+<p><em><span style="font-weight: 400;">Tal.K</span></em></p>
 </td>
 </tr>
 <tr>
 <td style="width: 125px; text-align: center;">
-<p><span style="font-weight: 400;">13:00-13:40</span></p>
+<p><span style="font-weight: 400;">12:00-12:40</span></p>
 </td>
-<td style="width: 446px;">
-<p class="p1"><span class="s1">Workshop: Init a React Native project</span></p>
-</td>
-<td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Lev.V + Nir.Yo</span></em></p>
+<td style="width: 446px;">&nbsp;<span class="s1">Workshop: Init a React Native project</span></td>
+<td style="width: 162px;">&nbsp;<em>Lev.V + Nir.Yo</em></td>
+</tr>
+<tr>
+<td style="width: 733px;" colspan="3">
+<p><span style="font-weight: 400;">&nbsp;Lunch Break&nbsp;</span></p>
 </td>
 </tr>
 <tr>
@@ -114,7 +109,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">Talk: ReactNative architecture - part 2</span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Daniel/Tal</span></em></p>
+<p><em><span style="font-weight: 400;">Tal.K</span></em></p>
 </td>
 </tr>
 <tr>
@@ -147,7 +142,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">Workshop: Remx</span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Nir + &nbsp;Yedidya + OneApp</span></em></p>
+<p><em><span style="font-weight: 400;">Nir + &nbsp;Yedidya</span></em></p>
 </td>
 </tr>
 <tr>
@@ -161,7 +156,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">Talk: Navigation - Idea, Pains &amp; Roadmap</span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Guy.C &amp; Ran.G &amp; Daniel</span></em></p>
+<p><em><span style="font-weight: 400;">(Guy.C-?) &amp; Ran.G &amp; Daniel</span></em></p>
 </td>
 </tr>
 <tr>
@@ -176,19 +171,15 @@ We've just covered the tip of the iceberg. You probably have many open questions
 </td>
 </tr>
 <tr>
-<td style="width: 733px;" colspan="3">
-<p>&nbsp;<span style="font-weight: 400;">Lunch Break</span></p>
+<td style="width: 125px; text-align: center;">
+<p><span style="font-weight: 400;">12:00 - 12:55</span></p>
 </td>
+<td style="width: 446px;">&nbsp;Talk: TDD with Remx</td>
+<td style="width: 162px;">&nbsp;<em>Daniel.Z</em></td>
 </tr>
 <tr>
-<td style="width: 125px; text-align: center;">
-<p><span style="font-weight: 400;">13:00 - 13:55</span></p>
-</td>
-<td style="width: 446px;">
-<p><span style="font-weight: 400;">Talk: TDD with Remx</span></p>
-</td>
-<td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Daniel.Z</span></em></p>
+<td style="width: 733px;" colspan="3">
+<p>&nbsp;<span style="font-weight: 400;">Lunch Break</span></p>
 </td>
 </tr>
 <tr>
@@ -199,7 +190,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">Workshop: TDD Rewrite + using Navigation </span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Elad &amp; Niryo &amp; OneApp</span></em></p>
+<p><em><span style="font-weight: 400;">Elad &amp; </span></em><em><span style="font-weight: 400;">Daniel.Z</span></em></p>
 </td>
 </tr>
 <tr>
@@ -269,7 +260,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">Workshop: Detoxify Your Project</span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Ran + Yonni + Sergey </span></em></p>
+<p><em>Rotem + Ran</em></p>
 </td>
 </tr>
 <tr>
@@ -283,23 +274,19 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p>Performance &amp; Dev tools</p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Lev + Nir + Ofir.d</span></em></p>
-</td>
-</tr>
-<tr>
-<td style="width: 733px;" colspan="3">
-<p><span style="font-weight: 400;">Lunch Break</span></p>
+<p><em><span style="font-weight: 400;">Lev + Nir</span></em></p>
 </td>
 </tr>
 <tr>
 <td style="width: 125px; text-align: center;">
-<p><span style="font-weight: 400;">13:00 - 13:55</span></p>
+<p><span style="font-weight: 400;">12:00 - 12:55</span></p>
 </td>
-<td style="width: 446px;">
-<p><span style="font-weight: 400;">Talk: Experiments, BI &amp; Monitoring</span></p>
-</td>
-<td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Noam</span></em></p>
+<td style="width: 446px;">&nbsp;Talk: Experiments, BI &amp; Monitoring</td>
+<td style="width: 162px;">&nbsp;<em>Noam</em></td>
+</tr>
+<tr>
+<td style="width: 733px;" colspan="3">
+<p><span style="font-weight: 400;">Lunch Break</span></p>
 </td>
 </tr>
 <tr>
@@ -321,7 +308,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p>Workshop: Integrate with OneApp</p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Lev.V</span></em></p>
+<p><em><span style="font-weight: 400;">Lev.V+Artal</span></em></p>
 </td>
 </tr>
 <tr>
@@ -362,7 +349,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p>Workshop: TDD Kata</p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Lev + Rotem + someone</span></em></p>
+<p><em>Daniel.Z</em></p>
 </td>
 </tr>
 <tr>
@@ -379,8 +366,3 @@ We've just covered the tip of the iceberg. You probably have many open questions
 </tbody>
 </table>
 <p>&nbsp;</p>
-
-
-
-
-

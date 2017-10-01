@@ -1,7 +1,7 @@
 # Day 4: Performance & Monitoring
 
 
-## `10:00 - 11:55` - Performance & Dev tools (with [Lev](mailto:levv@wix.com))
+## `10:00 - 11:55` - Performance & Dev tools (with [Lev](mailto:levv@wix.com) & with [Nir Yosef](mailto:niryo@wix.com ))
 TBD
 
 
@@ -16,7 +16,7 @@ What's different for [Petri](https://github.com/wix/petri) experiments on mobile
 One of the key benefits of React Native is the ability to share JavaScript code between platforms (iOS and Android). Or even between mobile and React web projects. What are the best practices?
 
 
-## `15:00 - 18:00` - Workshop: Integrate with OneApp (with [Lev Vidrak](mailto:levv@wix.com))
+## `15:00 - 18:00` - Workshop: Integrate with OneApp (with [Lev Vidrak](mailto:levv@wix.com) & [Artal Druk](mailto:artald@wix.com) )
 Now that we are familiar with OneApp's architecture we will integrate our demo project to be OneApp application.
 
 
