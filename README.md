@@ -76,7 +76,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">Talk: Introduction</span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Tal.K</span></em></p>
+<p><em><span style="font-weight: 400;">Lev.V</span></em></p>
 </td>
 </tr>
 <tr>
