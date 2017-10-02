@@ -36,10 +36,10 @@ We will implement a simple reddit client app as described in [this](https://hack
 We will build an app with remx that:
 
 1. displays a loading indicator until topics list is fetched from reddit
-  * https://www.reddit.com/subreddits/default.json
+      * https://www.reddit.com/subreddits/default.json
 2. displays a list of topics
 3. when topic is clicked, pushes a screen and displays a loading indicator until posts from the topic is fetched
-  * https://www.reddit.com/${subredditUrl}hot.json
+      * https://www.reddit.com/${subredditUrl}hot.json
 4. displays the posts list from this topic
 5. when post is clicked, shows a modal with the post detail (image/text)
 
