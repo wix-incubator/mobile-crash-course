@@ -16,6 +16,8 @@ This goal is to become familiar with mobile dev philosophy and the reasons we ch
 
 The goal is to have a working RN dev environment **on both platforms!**
 
+To help setup a clean `react-native` project with `react-native-navigation`, you can clone [this](https://github.com/wix/react-native-navigation-bootstrap) project, run it and make sure it works on both platforms.
+
 ## `13:50-15:30` - Talk: ReactNative architecture - part 2 (with [Tal Kol](mailto:talkol@wix.com))
 
 We will dive into React Native internals to explore the main components of the RN framework,
