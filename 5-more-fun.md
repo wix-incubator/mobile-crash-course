@@ -9,12 +9,10 @@ We've been talking non-stop about engineering, now it's time for some product. W
 
 
 ## `12:00 - 13:00` - Lunch Break
-FOOD
-
 
 ## `13:00 - 17:00` - Workshop: TDD Kata (with [Daniel Zlotin](mailto:danielzl@wix.com))
-TBD
 
+We will use [this repo](https://github.com/wix/tdd-katas) to train our TDD brains and fingers, and learn the benefits of practicing katas.
 
 ## `17:00 - 19:00` - Discussion: Summary, Feedback & Beer
 We'll pull out some beers and talk about the week we've just had. It's your stage to give feedback on the course and on the stack. Where do you see the main pains of development? Where would you like the mobile guild to concentrate its efforts?
