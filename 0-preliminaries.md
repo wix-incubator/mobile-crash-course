@@ -4,6 +4,21 @@ Before starting the crash course, you should familiarize yourself with some basi
 
 *Why? Since we have attendees from different backgrounds (eg. native mobile vs. web frontend) this helps us create a baseline and avoid spending course time on basics that some of you may find boring.*
 
+
+### Installation prerequisites
+
+Ensure that you fulfill all required environment setup and software prerequisites before starting the training.
+
+> * Xcode 9.0 (or later)
+> * [Android Studio latest version](https://developer.android.com/studio/index.html)
+> * Android SDK
+> * JS IDE - WebStorm/VSCode/IntelliJ..
+> * [Detox](https://github.com/wix/detox)
+> * [AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) 
+> * [NVM](https://github.com/creationix/nvm#install-script)
+> * NPM: `nvm install stable`
+
+
 ## 1. Modern JavaScript syntax
 
 We write business logic in modern JS (ES6+), you should be familiar with the basic language syntax.
