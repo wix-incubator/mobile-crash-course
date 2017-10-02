@@ -14,15 +14,7 @@ This goal is to become familiar with mobile dev philosophy and the reasons we ch
 
 ## `13:00-13:40` - Workshop: Init a React Native project (with [Daniel Zlotin](mailto:danielz@wix.com))
 
-In order to get the juices running, we'll spend some time working on a hands-on project. We'll use this project as a baseline for the other workshops in the next few days.
-We will implement a simple reddit client app as described in [this](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092) blog post, in `react-native`, with `react-native-navigation`.
-
-The goal is to have a working RN dev environment **on both platforms!**, with an app that:
-1. displays a loading indicator until topics list is fetched from reddit
-2. displays a list of topics
-3. when topic is clicked, pushes a screen and displays a loading indicator until data for the topic is fetched
-4. displays the posts list from this topic
-5. when post is clicked, shows a modal with the post detail (image/text)
+The goal is to have a working RN dev environment **on both platforms!**
 
 ## `13:50-15:30` - Talk: ReactNative architecture - part 2 (with [Tal Kol](mailto:talkol@wix.com))
 
@@ -36,7 +28,18 @@ Go over Redux's key ideas, a design pattern that was inspired by Flux.
 Can we offer you an alternative dataflow to Redux, with less boilerplate and simpler tests? We'll introduce you to remx, a much more convenient state management library.
 
 
-## `17:00-19:00` - Workshop: RemX Data-flow with React Native (with [Yedidya Kennard](mailto:yedidyak@wix.com) &  [Nir Yosef](mailto:niryo@wix.com ))
+## `17:00-19:00` - Workshop: remx Data-flow with React Native (with [Yedidya Kennard](mailto:yedidyak@wix.com) &  [Nir Yosef](mailto:niryo@wix.com ))
 
-Finish implementing our demo app with either redux or remx.
+In order to get the juices running, we'll spend some time working on a hands-on project. We'll use this project as a baseline for the other workshops in the next few days.
+We will implement a simple reddit client app as described in [this](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092) blog post, in `react-native`, with `react-native-navigation`.
+
+We will build an app with remx that:
+
+1. displays a loading indicator until topics list is fetched from reddit
+  * https://www.reddit.com/subreddits/default.json
+2. displays a list of topics
+3. when topic is clicked, pushes a screen and displays a loading indicator until posts from the topic is fetched
+  * https://www.reddit.com/${subredditUrl}hot.json
+4. displays the posts list from this topic
+5. when post is clicked, shows a modal with the post detail (image/text)
 
