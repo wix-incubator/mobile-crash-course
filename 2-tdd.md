@@ -10,11 +10,9 @@ The base of the testing pyramid consists of unit tests. How well does our stack 
 
 
 ## `12:00 - 13:00` - Lunch Break
-FOOD 
 
-
-## `13:00 - 13:55` - Talk: TDD with RemX (with [Daniel Zlotin](mailto:danielzl@wix.com))
-We believe that TDD is required for scaling our engineering and moving towards continuous delivery. We will show how it is done more easily with Remx.
+## `13:00 - 13:55` - Talk: TDD with remx (with [Daniel Zlotin](mailto:danielzl@wix.com))
+We believe that TDD is required for scaling our engineering and moving towards continuous delivery. We will show how it is done more easily with remx.
 
 
 ## `14:00 - 18:00` - Workshop: TDD Rewrite your project (with [Daniel Zlotin](mailto:danielzl@wix.com) & [Elad Bogomolny](eladbo@wix.com))
