@@ -16,7 +16,7 @@ This goal is to become familiar with mobile dev philosophy and the reasons we ch
 
 The goal is to have a working RN dev environment **on both platforms!**
 
-To help setup a clean `react-native` project with `react-native-navigation`, you can clone [this](https://github.com/wix/react-native-navigation-bootstrap) project, run it and make sure it works on both platforms.
+To help setup a clean `react-native` project with `react-native-navigation`, you can [clone this project](https://github.com/wix/react-native-navigation-bootstrap), run it and make sure it works on both platforms.
 
 ## `13:50-15:30` - Talk: ReactNative architecture - part 2 (with [Tal Kol](mailto:talkol@wix.com))
 
@@ -33,7 +33,7 @@ Can we offer you an alternative dataflow to Redux, with less boilerplate and sim
 ## `17:00-19:00` - Workshop: remx Data-flow with React Native (with [Yedidya Kennard](mailto:yedidyak@wix.com) &  [Nir Yosef](mailto:niryo@wix.com ))
 
 In order to get the juices running, we'll spend some time working on a hands-on project. We'll use this project as a baseline for the other workshops in the next few days.
-We will implement a simple reddit client app as described in [this](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092) blog post, in `react-native`, with `react-native-navigation`.
+We will implement a [simple reddit client app as described in this blog post](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092), in `react-native`, with `react-native-navigation`.
 
 We will build an app with remx that:
 
