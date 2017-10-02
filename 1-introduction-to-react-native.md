@@ -1,16 +1,16 @@
 # Day 1: React Native Architecture & Data Flows
 
-## `10:00 - 10:30` - Talk:Introduction (with [Lev Vidrak](mailto:levv@wix.com))
+## `10:00-10:30` - Talk:Introduction (with [Lev Vidrak](mailto:levv@wix.com))
 
 Who are you and where are you from?! We're spending the entire week together, so some customary meet and greet. A short introduction. We'll talk about mobile engineering @ Wix and our mobile stack in general. We'll also talk about the main mobile products being developed and who's making them.
 
-## `10:40 - 12:00` - Talk: ReactNative architecture - part 1 (with [Tal Kol](mailto:talkol@wix.com))
+## `10:40-12:00` - Talk: ReactNative architecture - part 1 (with [Tal Kol](mailto:talkol@wix.com))
 
 Introduce the main aspects of React Native, why we are working in RN framework in Wix, differences between native and RN development that you should remember.
 
 This goal is to become familiar with mobile dev philosophy and the reasons we chose React Native.
 
-## `12:00 - 13:00` - Lunch Break
+## `12:00-13:00` - Lunch Break
 
 ## `13:00-13:40` - Workshop: Init a React Native project (with [Daniel Zlotin](mailto:danielz@wix.com))
 
@@ -36,7 +36,7 @@ Go over Redux's key ideas, a design pattern that was inspired by Flux.
 Can we offer you an alternative dataflow to Redux, with less boilerplate and simpler tests? We'll introduce you to remx, a much more convenient state management library.
 
 
-## `17:00 - 19:00` - Workshop: RemX Data-flow with React Native (with [Yedidya Kennard](mailto:yedidyak@wix.com) &  [Nir Yosef](mailto:niryo@wix.com ))
+## `17:00-19:00` - Workshop: RemX Data-flow with React Native (with [Yedidya Kennard](mailto:yedidyak@wix.com) &  [Nir Yosef](mailto:niryo@wix.com ))
 
 Finish implementing our demo app with either redux or remx.
 
