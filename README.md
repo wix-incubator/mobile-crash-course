@@ -4,21 +4,6 @@ Crash course for engineers in Wix to start working on the mobile stack. Split in
 ### [`Before:` Preliminaries](0-preliminaries.md)
 Before starting the crash course, you should familiarize yourself with some basic concepts. Feel free to skip the parts you already know.
 
-
-### Installation prerequisites
-
-Ensure that you fulfill all required environment setup and software prerequisites before starting the training.
-
-> * Xcode 9.0 (or later)
-> * Android Studio latest version
-> * Android SDK
-> * JS IDE - WebStorm/VSCode..
-> * [Detox](https://github.com/wix/detox)
-> * [AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) 
-> * NVM
-> * NPM
-
-
 ### [`Day 1:`Introduction to React Native](1-introduction-to-react-native.md)
 This is the first official day of the crash course. We will start with introduction of the React Native framework and it's internals and later dive into different derivations of Flux design pattern. 
 
