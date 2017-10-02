@@ -9,14 +9,21 @@ Before starting the crash course, you should familiarize yourself with some basi
 
 Ensure that you fulfill all required environment setup and software prerequisites before starting the training.
 
-> * Xcode 9.0 (or later)
-> * [Android Studio latest version](https://developer.android.com/studio/index.html)
-> * Android SDK
-> * JS IDE - WebStorm/VSCode/IntelliJ..
-> * [Detox](https://github.com/wix/detox)
-> * [AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) 
-> * [NVM](https://github.com/creationix/nvm#install-script)
-> * NPM: `nvm install stable`
+* Xcode 9.0 (or later): from App Store
+* [Android Studio latest version](https://developer.android.com/studio/index.html)
+* Android SDK: install the following from AndroidStudio/sdkmanager:
+    * Android SDK platform (latest)
+    * Android SDK tools
+    * Android SDK build tools
+    * Android SDK platform tools
+    * Android Emulator
+    * Intel HAXM
+    * Support repository
+    * Google play services
+* JS IDE - WebStorm/VSCode/vim...
+* [AppleSimulatorUtils](https://github.com/wix/AppleSimulatorUtils) 
+* [NVM](https://github.com/creationix/nvm#install-script)
+* NPM: `nvm install stable`
 
 
 ## 1. Modern JavaScript syntax
