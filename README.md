@@ -293,7 +293,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p>Workshop: Integrate with OneApp</p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Lev.V+Artal</span></em></p>
+<p><em><span style="font-weight: 400;">Lev.V+Artal+Sergey</span></em></p>
 </td>
 </tr>
 <tr>
