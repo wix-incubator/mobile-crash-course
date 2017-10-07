@@ -16,5 +16,5 @@ One of the key benefits of React Native is the ability to share JavaScript code 
 
 
 ## `15:00 - 18:00` - Workshop: Integrate with OneApp (with [Lev Vidrak](mailto:levv@wix.com) & [Artal Druk](mailto:artald@wix.com) )
-Now that we are familiar with OneApp's architecture we will integrate our demo-project to be a tab inside OneApp. A mini app (what we call a module) - you can follow step-by-step tutorail [here](https://github.com/wix-private/awesome-mobile-framework/blob/master/AddingNewModuleAsTabToOneApp.md)
+Now that we are familiar with OneApp's architecture we will integrate our demo-project to be a tab inside OneApp. A mini app (what we call a module) - you can follow step-by-step tutorial [here](https://github.com/wix-private/awesome-mobile-framework/blob/master/AddingNewModuleAsTabToOneApp.md)
 
