@@ -4,7 +4,7 @@
 
 Who are you and where are you from?! We're spending the entire week together, so some customary meet and greet. A short introduction. We'll talk about mobile engineering @ Wix and our mobile stack in general. We'll also talk about the main mobile products being developed and who's making them.
 
-## `10:40-12:00` - Talk: ReactNative architecture - part 1 (with [Tal Kol](mailto:talkol@wix.com))
+## `10:40-12:00` - Talk: ReactNative architecture - part 1 (with [Daniel Zlotin](mailto:danielzl@wix.com))
 
 Introduce the main aspects of React Native, why we are working in RN framework in Wix, differences between native and RN development that you should remember.
 
@@ -18,7 +18,7 @@ The goal is to have a working RN dev environment **on both platforms!**
 
 To help setup a clean `react-native` project with `react-native-navigation`, you can [clone this project](https://github.com/wix/react-native-navigation-bootstrap), run it and make sure it works on both platforms.
 
-## `13:50-15:30` - Talk: ReactNative architecture - part 2 (with [Tal Kol](mailto:talkol@wix.com))
+## `13:50-15:30` - Talk: ReactNative architecture - part 2 ([Daniel Zlotin](mailto:danielzl@wix.com))
 
 We will dive into React Native internals to explore the main components of the RN framework,
 following that we will see how do we split projects between Native and JavaScript and what are the pros and cons of each side.
