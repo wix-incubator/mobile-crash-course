@@ -12,7 +12,7 @@ This goal is to become familiar with mobile dev philosophy and the reasons we ch
 
 ## `12:00-13:00` - Lunch Break
 
-## `13:00-13:40` - Workshop: Init a React Native project (with [Daniel Zlotin](mailto:danielz@wix.com))
+## `13:00-13:40` - Workshop: Init a React Native project (with [Lev Vidrak](mailto:levv@wix.com) &  [Nir Yosef](mailto:niryo@wix.com ) )
 
 The goal is to have a working RN dev environment **on both platforms!**
 
