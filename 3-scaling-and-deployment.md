@@ -11,7 +11,7 @@ When everybody's code is running side by side in the same app, there's greater e
 ## `12:00 - 13:00` - Lunch Break
 FOOD FOOD FOOD - Pancake House
 
-## `13:30 - 14:55` - Talk: CI, Build & Distribution (with [Sergey Ilyevsky](mailto:sergeyi@wix.com))
+## `13:00 - 14:55` - Talk: CI, Build & Distribution (with [Sergey Ilyevsky](mailto:sergeyi@wix.com))
 Mobile is a unique ecosystem, how does it translate to our CI, what's different? What do our projects look like and how do we build them? How do we distribute our code and deploy apps to production?
 
 
