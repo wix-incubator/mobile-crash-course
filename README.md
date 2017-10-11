@@ -29,6 +29,9 @@ On the last day we will take a look on the future of our mobile products in Wix 
 
 ### [`After:` Further Reading](https://github.com/wix/mobile-engineering-library)
 We've just covered the tip of the iceberg. You probably have many open questions and things you'd like to understand in more depth. You can continue reading about what we think is important in our [mobile engineering library](https://github.com/wix/mobile-engineering-library).
+
+
+
 <p>## Full schedule</p>
 <p>&nbsp;</p>
 <table style="width: 819px;">
@@ -133,32 +136,32 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">Day 2</span></p>
 </td>
 <td style="width: 125px; text-align: center;">
-<p><span style="font-weight: 400;">10:00 - 10:50</span></p>
+<p><span style="font-weight: 400;">10:00 - 10:40</span></p>
+</td>
+<td style="width: 446px;">
+<p><span style="font-weight: 400;">Talk: Navigation - Idea, Pains &amp; Roadmap</span></p>
+</td>
+<td style="width: 162px;">
+<p><em><span style="font-weight: 400;">(Guy.C-?) &amp; Ran.G &amp; Daniel</span></em></p>
+</td>
+</tr>
+<tr>
+<td style="width: 125px; text-align: center;">
+<p><span style="font-weight: 400;">10:50 - 12:00</span></p>
 </td>
 <td style="width: 446px;">
 <p><span style="font-weight: 400;">Talk: Testing Redux</span></p>
 </td>
 <td style="width: 162px;">
-<p><em>Yedidya.K</em></p>
-</td>
-</tr>
-<tr>
-<td style="width: 125px; text-align: center;">
-<p><span style="font-weight: 400;">11:00 - 11:55</span></p>
-</td>
-<td style="width: 446px;">
-<p>Talk: TDD with Remx&nbsp;</p>
-</td>
-<td style="width: 162px;">
-<p><em>Daniel.Z </em></p>
+<p><em><span style="font-weight: 400;">Yedidya.K</span></em></p>
 </td>
 </tr>
 <tr>
 <td style="width: 125px; text-align: center;">
 <p><span style="font-weight: 400;">12:00 - 12:55</span></p>
 </td>
-<td style="width: 446px;">&nbsp;Talk: Navigation - Idea, Pains &amp; Roadmap</td>
-<td style="width: 162px;">&nbsp;<em>Ran.G &amp; Daniel</em></td>
+<td style="width: 446px;">&nbsp;Talk: TDD with Remx</td>
+<td style="width: 162px;">&nbsp;<em>Daniel.Z</em></td>
 </tr>
 <tr>
 <td style="width: 733px;" colspan="3">
