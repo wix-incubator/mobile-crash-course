@@ -1,6 +1,6 @@
 # Day 3: Scaling & Deployment
 
-## `10:00 - 10:55` - Talk: Multi Module Architecture (with [Omri Bruchim](mailto:omrib@wix.com))
+## `10:00 - 10:55` - Talk: Multi Module Architecture (with [Omri Bruchim](mailto:omrib@wix.com) & [Daniel Zlotin](mailto:danielzl@wix.com))
 Wix One App is a mega-app which hosts dozens of mini-apps from various groups within Wix. Each mini-app is a separate [*module*](https://github.com/wix-private/wix-react-native-framework/blob/master/modules.md) with distinct lifecycle. Also, how do we implement scenarios spanning multiple modules?
 
 
