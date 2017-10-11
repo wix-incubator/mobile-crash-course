@@ -29,7 +29,6 @@ On the last day we will take a look on the future of our mobile products in Wix 
 
 ### [`After:` Further Reading](https://github.com/wix/mobile-engineering-library)
 We've just covered the tip of the iceberg. You probably have many open questions and things you'd like to understand in more depth. You can continue reading about what we think is important in our [mobile engineering library](https://github.com/wix/mobile-engineering-library).
-
 <p>## Full schedule</p>
 <p>&nbsp;</p>
 <table style="width: 819px;">
@@ -145,7 +144,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 </tr>
 <tr>
 <td style="width: 125px; text-align: center;">
-<p><span style="font-weight: 400;">11:50 - 11:55</span></p>
+<p><span style="font-weight: 400;">11:00 - 11:55</span></p>
 </td>
 <td style="width: 446px;">
 <p>Talk: TDD with Remx&nbsp;</p>
