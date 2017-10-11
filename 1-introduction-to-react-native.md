@@ -18,7 +18,7 @@ To help setup a clean `react-native` project with `react-native-navigation`, you
 
 ## `13:50-15:30` - Talk: Living in a Mobile World ([Daniel Zlotin](mailto:danielzl@wix.com))
 
-Understand the limitations of the mobile world, best seen through the eyes of the backend
+Understand the limitations of the mobile world
 
 ## `15:40-16:15` - Talk: Flux Design Pattern & Redux (with [Yedidya Kennard](mailto:yedidyak@wix.com))
 Go over Redux's key ideas, a design pattern that was inspired by Flux.
