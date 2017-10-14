@@ -31,7 +31,6 @@ On the last day we will take a look on the future of our mobile products in Wix 
 We've just covered the tip of the iceberg. You probably have many open questions and things you'd like to understand in more depth. You can continue reading about what we think is important in our [mobile engineering library](https://github.com/wix/mobile-engineering-library).
 
 
-
 <p>## Full schedule</p>
 <p>&nbsp;</p>
 <table style="width: 819px;">
@@ -69,10 +68,10 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">10:40-12:00</span></p>
 </td>
 <td style="width: 446px;">
-<p class="p1"><span class="s1">Talk: ReactNative architecture - part 1</span></p>
+<p class="p1"><span class="s1">Talk: ReactNative vs Native</span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Tal.K</span></em></p>
+<p><em>Daniel.Z</em></p>
 </td>
 </tr>
 <tr>
@@ -92,10 +91,10 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">13:50-15:30</span></p>
 </td>
 <td style="width: 446px;">
-<p><span style="font-weight: 400;">Talk: ReactNative architecture - part 2</span></p>
+<p><span style="font-weight: 400;">Talk: Living in a Mobile World</span></p>
 </td>
 <td style="width: 162px;">
-<p><em><span style="font-weight: 400;">Tal.K</span></em></p>
+<p><em>Daniel.Z</em></p>
 </td>
 </tr>
 <tr>
