@@ -30,7 +30,6 @@ On the last day we will take a look on the future of our mobile products in Wix 
 ### [`After:` Further Reading](https://github.com/wix/mobile-engineering-library)
 We've just covered the tip of the iceberg. You probably have many open questions and things you'd like to understand in more depth. You can continue reading about what we think is important in our [mobile engineering library](https://github.com/wix/mobile-engineering-library).
 
-
 <p>## Full schedule</p>
 <p>&nbsp;</p>
 <table style="width: 819px;">
@@ -256,7 +255,7 @@ We've just covered the tip of the iceberg. You probably have many open questions
 <p><span style="font-weight: 400;">10:00-11:55</span></p>
 </td>
 <td style="width: 446px;">
-<p>Performance &amp; Dev tools</p>
+<p>Continue with the workshop: Detoxify the project</p>
 </td>
 <td style="width: 162px;">
 <p><em><span style="font-weight: 400;">Lev + Nir</span></em></p>
