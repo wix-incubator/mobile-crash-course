@@ -30,7 +30,7 @@ Can we offer you an alternative dataflow to Redux, with less boilerplate and sim
 ## `17:00-19:00` - Workshop: remx Data-flow with React Native (with [Yedidya Kennard](mailto:yedidyak@wix.com) &  [Nir Yosef](mailto:niryo@wix.com ))
 
 In order to get the juices running, we'll spend some time working on a hands-on project. We'll use this project as a baseline for the other workshops in the next few days.
-We will implement a [simple reddit client app as described in this blog post](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092), in `react-native`, with `react-native-navigation`.
+We will implement a [simple reddit client app as described in this blog post](https://medium.com/@drorbiran/getting-started-with-remx-a5880563566f), in `react-native`, with `react-native-navigation`.
 
 We will build an app with remx that:
 
